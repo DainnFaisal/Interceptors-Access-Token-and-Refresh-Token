@@ -1,0 +1,13 @@
+.set-links{
+    text-decoration: none;
+    color: antiquewhite;
+    margin-right: 25px;
+}
+.nav-bar{
+    background-color: rgba(0, 0, 255, 0.589);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    display: flex;
+
+}
